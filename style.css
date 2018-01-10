@@ -1,0 +1,24 @@
+header
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.headerbutt
+{
+	margin: 0 7px
+}
+
+.logo
+{
+	display: block;
+	margin-top: 125px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 13em;
+}
+
+.centerpart
+{
+	text-align: center;
+}
